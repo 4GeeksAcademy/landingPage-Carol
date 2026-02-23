@@ -1,5 +1,7 @@
 export const Footer = () => {
     return (
-      <div class="card-footer bg-dark border-success">Footer</div>
+      <footer className="card-footer bg-dark text-white border-success py-3">
+        Footer
+      </footer>
     );
 };
